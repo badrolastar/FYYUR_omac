@@ -1,0 +1,9 @@
+
+Flask-Migrate
+Flask-Moment
+Flask-SQLAlchemy
+Flask-WTF
+Babel
+Python-dateutil
+SQLAlchemy
+Psycopg2
